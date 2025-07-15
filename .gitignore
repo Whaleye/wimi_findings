@@ -1,0 +1,34 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.sqlite3
+*.db
+*.log
+
+# Environment
+.venv/
+env/
+.uv/
+.DS_Store
+
+# Data
+data/raw_html/
+data/job_postings.jsonl
+data/job_postings_with_skills.jsonl
+data/jobs.db
+config/universities_auto.yaml
+
+# IDE
+.vscode/
+.idea/
+
+# Jupyter or notebook temp files
+.ipynb_checkpoints/
+
+# Streamlit
+.streamlit/
+
+# OS specific
+Thumbs.db

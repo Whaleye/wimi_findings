@@ -1,1 +1,64 @@
 # universities.yaml
+universities:
+  - name: "Technische Universität München"
+    alias: "TUM"
+    country: "Germany"
+    base_url: "https://portal.mytum.de/jobs/professuren"
+    selector_type: "static"
+    language: "de"
+    job_list_selector: null
+    detail_page_required: true
+
+  - name: "Ruprecht-Karls-Universität Heidelberg"
+    alias: "Uni Heidelberg"
+    country: "Germany"
+    base_url: ""
+    selector_type: "static"
+    language: "de"
+    job_list_selector: null
+    detail_page_required: true
+
+  - name: "Freie Universität Berlin"
+    alias: "FU Berlin"
+    country: "Germany"
+    base_url: ""
+    selector_type: "static"
+    language: "de"
+    job_list_selector: null
+    detail_page_required: true
+
+  - name: "Ludwig-Maximilians-Universität München"
+    alias: "LMU"
+    country: "Germany"
+    base_url: ""
+    selector_type: "static"
+    language: "de"
+    job_list_selector: null
+    detail_page_required: true
+
+  - name: "RWTH Aachen"
+    alias: "RWTH"
+    country: "Germany"
+    base_url: ""
+    selector_type: "static"
+    language: "de"
+    job_list_selector: null
+    detail_page_required: true
+
+  - name: "Technische Universität Berlin"
+    alias: "TU Berlin"
+    country: "Germany"
+    base_url: ""
+    selector_type: "static"
+    language: "de"
+    job_list_selector: null
+    detail_page_required: true
+
+  - name: "Universität Stuttgart"
+    alias: "Uni Stuttgart"
+    country: "Germany"
+    base_url: ""
+    selector_type: "static"
+    language: "de"
+    job_list_selector: null
+    detail_page_required: true
